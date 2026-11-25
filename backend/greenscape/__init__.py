@@ -1,0 +1,1 @@
+"""GreenScape AI optimization service."""
